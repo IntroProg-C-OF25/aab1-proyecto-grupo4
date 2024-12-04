@@ -51,3 +51,22 @@ public class PromedioUTPL {
         System.out.printf("Estudiantes Reprobados: %d (%.2f%%)%n", estuRepro, porcenRepro);
     }
 }
+/***
+ * Ingrese el numero de estudiantes: 
+ * 2
+ * Estudiante: Estudiante1 | C�dula: EC1154440449 | Materia: Materia1
+ * Calificaciones - ACD: 2,25 | APE: 1,14 | AA: 1,55
+ * Suma de calificaciones: 4,94
+ * Estas en supletorios
+ * Nota de recuperaci�n: 2,80
+ * Reprobado, examen de recuperacion no suficiente
+ * Estudiante: Estudiante2 | C�dula: EC1207236583 | Materia: Materia2
+ * Calificaciones - ACD: 0,47 | APE: 1,55 | AA: 1,94
+ * Suma de calificaciones: 3,97
+ * Estas en supletorios
+ * Nota de recuperaci�n: 0,55
+ * Reprobado, examen de recuperacion no suficiente
+ * Estad�sticas finales:
+ * Estudiantes Aprobados: 0 (0,00%)
+ * Estudiantes Reprobados: 2 (100,00%)
+ */
